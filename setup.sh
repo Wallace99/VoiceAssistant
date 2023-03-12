@@ -1,4 +1,4 @@
-curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.pbmm
-curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.9.3/deepspeech-0.9.3-models.scorer
+curl -LO https://coqui.gateway.scarf.sh/english/coqui/v1.0.0-huge-vocab/model.tflite
+curl -LO https://coqui.gateway.scarf.sh/english/coqui/v1.0.0-huge-vocab/huge-vocabulary.scorer
 
-pip install requirements.txt
+pip install -r requirements.txt

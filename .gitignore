@@ -1,3 +1,7 @@
 *.pbmm
 *.scorer
 .idea/
+*.wav
+*.tflite
+__pycache__/
+.DS_store
